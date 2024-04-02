@@ -1,5 +1,13 @@
 # MovoSuite Changelog
 
+## Mar. 27, 2024
+
+### Web UI
+
+| Type | Description  |
+|-------------|-------------------|
+| Enhancement | Added the app token name as a tag to app items in the selection form. |
+
 ## Mar. 8, 2024
 
 ### Web UI

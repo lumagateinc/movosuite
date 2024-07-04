@@ -25,6 +25,7 @@ MovoSuite supports the following column values for Excel import and device namin
 | Student     | **Optional, currently unused.** A *1* or a *0* indicating whether this device is a student device (*1* = yes). |
 | Asset Tag     | **Optional.** The asset tag for this device. |
 | Custom Group Value        | **Optional.** A custom grouping value. |
+| AutoPilot Group Tag | **Optional.** A value to assign as the AutoPilot Group Tag for this device. |
 
 For the Excel Import, MovoSuite has two additional flags:
 
